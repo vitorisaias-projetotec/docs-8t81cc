@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-cn3w1z.salamcuanwin.cfd/sitemap.xml
